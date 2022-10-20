@@ -1,0 +1,49 @@
+/* h1{ 
+    border: solid;
+    background-color: yellow;
+    width: 200px;
+
+     position: fixed;
+    /*fixed anywhere in the viewport
+    position: relative;
+    /*only can be move on its normal postion
+    right: 50px;
+    bottom: 50px; 
+    
+    position: sticky;
+    /*sticks to viewport when scrolling
+    top: 0px;
+
+    
+}
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+} */
+
+
+#box1{
+    position: relative;
+    font-size: 20px;
+    background-color: orange;
+    border: solid;
+    width: 300px;
+    height: 300px;
+
+    top: 100px;
+   
+
+    margin-left: auto; /* occupies the viewport */
+    margin-right: auto; 
+}
+#box2{
+    position: relative;
+    font-size: 20px;
+    background-color: orange;
+    border: solid;
+    width: 100px;
+    height: 100px;
+
+    top: 50px;
+    left: 90px;
+}

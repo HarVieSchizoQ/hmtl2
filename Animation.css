@@ -1,0 +1,59 @@
+#h1{
+   width: 120px;
+   height: 120px;
+   font-size: 100px;
+   background-color: red;
+   margin: 0px;
+
+   animation: myrotateAnimation;
+   animation-duration: 5s;
+   animation-iteration-count: infinite;
+}
+@keyframes mycolorAnimation{
+    0%{background-color: red;}
+    20%{background-color: blue;}
+    50%{background-color: yellow;}
+    80%{background-color: violet;}
+    100%{background-color: #00FF00;}
+}
+@keyframes myrotateAnimation{
+    100%{transform: rotateZ(100000deg);}
+}
+#h2{
+   width: 120px;
+   height: 120px;
+   font-size: 100px;
+   background-color: red;
+   margin: 0px;
+   margin-left: auto;
+   margin-top: -125px;
+
+   animation: myrotateAnimation;
+   animation-duration: 5s;
+   animation-iteration-count: infinite;
+}
+#h3{
+   width: 120px;
+   height: 120px;
+   font-size: 100px;
+   background-color: red;
+   margin: 0px;
+   margin-left: auto;
+   margin-top: 540px;
+
+   animation: myrotateAnimation;
+   animation-duration: 5s;
+   animation-iteration-count: infinite;z
+}
+#h4{
+    width: 120px;
+    height: 120px;
+    font-size: 100px;
+    background-color: red;
+    margin: 0px;
+    margin-top: -125px;
+
+    animation: myrotateAnimation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}

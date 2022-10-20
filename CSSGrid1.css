@@ -1,0 +1,47 @@
+html{
+   /* background-image: url("back1.webp"); 
+    color:cyan;*/
+}
+body{
+    margin: 0;
+    font-family: monospace;
+    font-size: 30px;
+}
+.header{
+    background-color: aqua; 
+    padding: 20px;
+}
+.leftside{
+    float: left;
+    width: 20%;
+    height: 650px;
+    background-color: #00F900;
+}
+.rightside{
+    text-align: center;
+    float: left;
+    width: 70%;
+    height: 650px;
+    background-color: beige;
+}
+.footer{
+    background-color: chocolate;
+   text-align: center;
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0px;
+    width: 94%;
+  
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+   
+}
+ul li a{
+    padding: 2px;
+    color: red;
+    padding-bottom: 20px;
+
+}

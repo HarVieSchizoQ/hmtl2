@@ -1,0 +1,96 @@
+html{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    /*background-color: black;*/
+    color: orangered;   
+    display: table;
+}
+#header_1{
+    /*padding-top: 15px;
+    padding-right: 30px;*/
+    display: table-cell;
+    vertical-align: middle;
+
+    text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+}
+.navigation{
+    width: 500px;
+    height: 100%;
+    
+    font-size: 20px;
+    float: right;
+}
+.navigation li{
+    float: left;
+    padding: 30px;
+}
+.container{
+    max-width: 100vh;
+    width: 700px;
+    
+    
+    margin: auto;  /* to make the text and the boarder align in center*/
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+#header_2{
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center; /*to make text align in center of border*/
+    margin-left: auto;
+    margin-right: auto  ;
+    margin-top: 300px;  
+    border: solid;
+    width: 600px;
+    height: 100%;
+    padding: 5px;
+
+    text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+
+    box-shadow: 5px 10px 10px #666666;
+}
+.title_2{
+    font-size: 20px;
+}
+#header_3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    font-family: monospace;
+}
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}  
+#button1{
+    background-color: #50d8d7;
+    border-radius: 20px;
+}

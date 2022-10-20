@@ -1,0 +1,92 @@
+body{
+    margin: 0px;
+}
+.header{
+    padding: 0%;
+    margin: 0px;
+   background-color: white; 
+    float:left;
+    width: 15%;
+}
+#left{
+    font-family: cursive;
+    font-size: 20px;
+   /* background-color: aqua; */
+    float: left;
+    height: 1000px;
+    padding: 0px;
+    width: 40%;
+    margin: 0px;
+    font-size: 20px;
+}
+ul{
+    margin: 0px;
+    padding-left: 0%;
+}
+.rightside{
+    font-family: monospace;
+}
+#Intro1{
+    color: white;
+    background-color: black;
+}
+#para1{
+    padding: 0px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+#Intro2{
+    width: 100%;
+    text-align: left;
+    font-family: monospace;
+    color: white;
+    background-color: black;
+} 
+#para2{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+#ul1{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 100%;
+    list-style-position: inside;
+}
+#para3{
+    font-family: sans-serif;
+    font-size: 18px;
+} 
+#Intro3{
+    width: 100%;
+    text-align: left;
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
+#para4{
+    font-family: sans-serif;
+    font-size: 18px;    
+}
+#Intro4{
+    width: 100%;
+    text-align: left;
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
+#para5{
+    font-family: sans-serif;
+    font-size: 18px;   
+}
+#Intro5{
+    width: 100%;
+    text-align: left;
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
+#para6{
+    font-family: sans-serif;
+    font-size: 18px;   
+}

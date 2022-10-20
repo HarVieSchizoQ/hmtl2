@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+}
+
+h1{
+     color:aqua;
+}
+#p1{
+    color:brown;
+    font-family:serif;
+    font-size:20px;
+}
+#p2{
+    font-family:Ink Free;
+}
+#p3{
+    font-family:MV Boli;
+    font-style:italic;
+    font-size:25px;
+    font-weight:bold;
+    text-decoration:underline;
+    color:#75f542;
+}

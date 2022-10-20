@@ -1,0 +1,27 @@
+/*h1{
+    border: solid;
+}
+#p1{
+    text-align: left;
+} 
+#p2{
+    text-align: center;
+}
+#p3{
+    text-align: right;
+} */
+
+img{
+    float: left;
+    width: 250px;
+    height: 250px;
+
+}
+p{
+    font-size: 30px;
+}
+div{
+    border: solid;
+    width: 250px;
+   
+}
